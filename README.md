@@ -17,15 +17,6 @@ This project explores binary trees, a fundamental data structure in computer sci
 
 ### Features
 
-<!-- - Implementation of binary tree data structure in C
-- Functions for creating, inserting, and deleting nodes
-- Functions for traversing the tree (pre-order, in-order, post-order)
-- Functions for calculating the height and depth of the tree
-- Functions for checking if the tree is balanced
-- Functions for finding the lowest common ancestor (LCA) of two nodes
-- Functions for counting the number of nodes in the tree
-- Functions for finding the maximum and minimum values in the tree -->
-
 | Functionality | Description |
 | ------------- | ----------- |
 | `binary_tree_node` | Creates a binary tree node. |
