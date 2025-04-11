@@ -6,6 +6,7 @@
 - [Files](#files)
 - [Compilation](#compilation)
 - [Usage Examples](#usage-examples)
+- [Output](#output)
 - [Authors](#authors)
 
 #
@@ -114,6 +115,36 @@ int main(void)
 	return (0);
 }
 ```
+### Output
+```bash
+In-order traversal:
+6
+12
+16
+54
+45
+75
+
+Pre-order traversal:
+98
+12
+54
+16
+45
+75
+
+Post-order traversal:
+6
+16
+12
+54
+45
+75
+
+Height of the tree: 3
+Depth of node with value 16: 2
+```
+### Authors
 
 #### Authors &copy;
 
